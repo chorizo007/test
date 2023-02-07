@@ -11,7 +11,7 @@ void funcion1(int &a, int &b){
 	}
 	else return 0;
 }
-
+// la mama de la mama
 
 int main(int argc, char** argv) {
 	
